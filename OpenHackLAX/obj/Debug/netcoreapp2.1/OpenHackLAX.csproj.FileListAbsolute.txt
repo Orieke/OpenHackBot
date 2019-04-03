@@ -1,0 +1,15 @@
+C:\Users\nnorieke\source\repos\OpenHackLAX\OpenHackLAX\bin\Debug\netcoreapp2.1\OpenHackLAX.bot
+C:\Users\nnorieke\source\repos\OpenHackLAX\OpenHackLAX\bin\Debug\netcoreapp2.1\OpenHackLAX.deps.json
+C:\Users\nnorieke\source\repos\OpenHackLAX\OpenHackLAX\bin\Debug\netcoreapp2.1\OpenHackLAX.runtimeconfig.json
+C:\Users\nnorieke\source\repos\OpenHackLAX\OpenHackLAX\bin\Debug\netcoreapp2.1\OpenHackLAX.runtimeconfig.dev.json
+C:\Users\nnorieke\source\repos\OpenHackLAX\OpenHackLAX\bin\Debug\netcoreapp2.1\OpenHackLAX.dll
+C:\Users\nnorieke\source\repos\OpenHackLAX\OpenHackLAX\bin\Debug\netcoreapp2.1\OpenHackLAX.pdb
+C:\Users\nnorieke\source\repos\OpenHackLAX\OpenHackLAX\obj\Debug\netcoreapp2.1\OpenHackLAX.csprojAssemblyReference.cache
+C:\Users\nnorieke\source\repos\OpenHackLAX\OpenHackLAX\obj\Debug\netcoreapp2.1\OpenHackLAX.csproj.CoreCompileInputs.cache
+C:\Users\nnorieke\source\repos\OpenHackLAX\OpenHackLAX\obj\Debug\netcoreapp2.1\OpenHackLAX.RazorAssemblyInfo.cache
+C:\Users\nnorieke\source\repos\OpenHackLAX\OpenHackLAX\obj\Debug\netcoreapp2.1\OpenHackLAX.RazorAssemblyInfo.cs
+C:\Users\nnorieke\source\repos\OpenHackLAX\OpenHackLAX\obj\Debug\netcoreapp2.1\OpenHackLAX.AssemblyInfoInputs.cache
+C:\Users\nnorieke\source\repos\OpenHackLAX\OpenHackLAX\obj\Debug\netcoreapp2.1\OpenHackLAX.AssemblyInfo.cs
+C:\Users\nnorieke\source\repos\OpenHackLAX\OpenHackLAX\obj\Debug\netcoreapp2.1\OpenHackLAX.RazorTargetAssemblyInfo.cache
+C:\Users\nnorieke\source\repos\OpenHackLAX\OpenHackLAX\obj\Debug\netcoreapp2.1\OpenHackLAX.dll
+C:\Users\nnorieke\source\repos\OpenHackLAX\OpenHackLAX\obj\Debug\netcoreapp2.1\OpenHackLAX.pdb
