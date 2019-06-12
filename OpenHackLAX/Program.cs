@@ -5,7 +5,8 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace OpenHackLAX
+
+// This is to show uchenna devops
 {
     public class Program
     {
